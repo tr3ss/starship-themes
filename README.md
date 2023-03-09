@@ -3,7 +3,14 @@ Just a few Starship themes (https://starship.rs)
 
 [Still WIP]
 
-### Warp Terminal (https://warp.dev) + Starship + ZSH + Nerd Fonts
+### Warp Terminal (https://warp.dev) + Starship + ZSH + OZSH + Nerd Fonts
+
+Install Nerd Fonts:
+
+```
+brew tap homebrew/cask-fonts
+brew install --cask font-droid-sans-mono-nerd-font
+```
 
 1. Viking
 
